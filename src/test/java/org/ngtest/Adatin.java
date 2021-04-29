@@ -30,7 +30,7 @@ public class Adatin {
 	private void afterMethod() {
 		Date date = new Date();
 		System.out.println(date);
-		
+		System.out.println("hii");
 		}
 	@Test
 	public void Adatin() {
